@@ -1,0 +1,1 @@
+Developed a chatbot using Google Dialogflow with SQL database integration, implementing a FastAPI backend to handle adding, removing, and searching items via chat. Used Dialogflow’s natural language processing for intent recognition and optimized backend performance with efficient query handling and response management.
